@@ -1,19 +1,21 @@
+![Bracker Logo Icon](https://github.com/afu-1/Bracker/assets/91917953/0c067c38-81a3-4803-a721-fc98ccc4c9ab)
+
 # Bracker
 
-## Bracker is an app designed for readers to keep track of what books they have read and what they thought about those books immediately after finishing them. It allows readers to reference a library to discuss with other readers how they felt about a particular book and be able to reflect back on their initial opinions and how they may have changed after a while.
+## Bracker is an app designed for readers to keep track of what books they have read and what they thought about those books immediately after finishing them. They are free to edit old reviews as well as add new ones to build their personal bookshelf.
 
 This app was created as an individual project for CS329 (IOS Development).
 
-To run this project, Xcode version 15.0.1 was used. That would probably be the requirements needes to run, but I believe this project can be run on most Xcodes.
+To run this project, Xcode version 15.0.1 was used. That would probably be the requirements needed to run, but I believe this project can be run on most Xcodes.
 
-To test this app, using the inbuilt simulator (preferably iPhone 15 as that was the simulator I was using when testing) from Xcode would be for the best as the app in an actual iPhone is buggy and crashes. Portrait mode is also ideal as the formatting of the app looks better. There is no test account with sample data loaded in as a lot of the data from the app in very local to the phone and isn't spread through cloud. Hence it is best to start off with creating your own account for better experience of the app rather than using an account that has been registered in Firebase for now.
+To test this app, using the inbuilt simulator (preferably iPhone 15 as that was the simulator I was using when testing) from Xcode would be for the best as the app in an actual iPhone is buggy and crashes. Portrait mode is also ideal as the formatting of the app looks better. There is no test account with sample data loaded in as a lot of the data from the app is very local to the phone and isn't spread through the cloud. Hence it is best to start with creating your own account for a better experience of the app rather than using an account that has been registered in Firebase for now.
 
 ## Checklist of each feature:
 ### Settings:
 - [x] Font Size:
-  - Users are able to change the font size of their book reviews so if the text is too small, they can make it larger for easier viewing. <br>
+  - Users can change the font size of their book reviews so if the text is too small, they can make it larger for easier viewing. <br>
 - [x] Dark Mode:
-  - Users are able to locally change their app to dark mode if they choose to add a book review at night and change it back to light mode if they prefer the lighter version.
+  - Users can locally change their app to dark mode if they choose to add a book review at night and change it back to light mode if they prefer the lighter version.
 
 ### Non-default Fonts and Colors used:
 - [x] Fonts: Unica One-Regular is the font used for most of the title information while Josefin Sans-Light is the font used for all of the text containing pertinent information (user information and book reviews). <br>
