@@ -6,7 +6,9 @@
 
 This app was created as an individual project for CS329 (IOS Development).
 
-To run this project, Xcode version 15.0.1 was used. That would probably be the requirements needed to run, but I believe this project can be run on most Xcodes.
+To run this project, Xcode version 15.0.1 is preferable as that is the version of Xcode I used to code everything. However, I believe that most of the other current Xcode versions should work. Swift 5 is also the best language to use as that is the language I coded mostly in. 
+
+The only package that is needed is the firebase-ios-sdk package with the Firebase-Auth dependency downloaded.
 
 To test this app, using the inbuilt simulator (preferably iPhone 15 as that was the simulator I was using when testing) from Xcode would be for the best as the app in an actual iPhone is buggy and crashes. Portrait mode is also ideal as the formatting of the app looks better. There is no test account with sample data loaded in as a lot of the data from the app is very local to the phone and isn't spread through the cloud. Hence it is best to start with creating your own account for a better experience of the app rather than using an account that has been registered in Firebase for now.
 
